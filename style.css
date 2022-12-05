@@ -1,0 +1,25 @@
+/* *{
+    /* margin: 0;
+    padding:0; }*/
+    
+
+
+#topheader{
+    background-image: url("https://images.pexels.com/photos/5746260/pexels-photo-5746260.jpeg?auto=compress&cs=tinysrgb&w=800");
+    text-align: center;
+    background-size: cover;
+    height: 350px;
+    color: white;
+    background-repeat: no-repeat;
+    padding-top: 50px;
+    border: black 3px;
+    
+}
+h1{
+    font-size: 50px;
+}
+
+span{
+    background-color: black;
+    padding: 10px;
+}
